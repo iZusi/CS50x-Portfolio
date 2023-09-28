@@ -32,7 +32,6 @@ Feel free to explore my work and see how I tackled the challenges presented in t
 - Visit the [ProblemSets](./ProblemSets) directory to explore my solutions to problem sets.
 - Check out the [LabSets](./LabSets) directory to see how I tackled the course labs.
 - Examine the [PracticeProblems](./PracticeProblems) directory to see how I work on the course practice problems.
-- Each subdirectory contains README files explaining the purpose and approach for each assignment.
 
 ## Contact Information
 
