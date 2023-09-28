@@ -1,4 +1,4 @@
-# Problem Set 1 - Readability and Bulbs
+# Problem Set 2 - Readability and Bulbs
 
 **Description:** Problem Set 2 introduces arrays in C programming and includes two assignments: Readability and Bulbs (or Caesar, or Substitution, or Wordle50).
 
