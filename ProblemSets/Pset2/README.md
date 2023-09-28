@@ -4,7 +4,7 @@
 
 **Contents:**
 
-1. **Files:** `hello.c`, `mario-less.c`, `mario-more.c` `cash.c`
+1. **Files:** `readability.c` and `bulbs.c`
 
 2. **Description:** This problem set focuses on building familiarity with arrays, functions, readability etc, in C. "Readability" calculates the approximate grade-level required to comprehend a given text, and "Bulb"
 
