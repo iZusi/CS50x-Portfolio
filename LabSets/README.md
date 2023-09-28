@@ -15,7 +15,7 @@
 
 5. **Testing:** I tested the code with different input sizes and edge cases to ensure correctness and efficiency.
 
-## Lab Set 1
+## Lab Set 2
 
 **Description:** Lab Set 2 creates a scrabble game that determines which of two scrabble words is worth more
 
