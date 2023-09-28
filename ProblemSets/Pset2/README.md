@@ -6,7 +6,7 @@
 
 1. **Files:** `readability.c` and `bulbs.c`
 
-2. **Description:** This problem set focuses on building familiarity with arrays, functions, readability etc, in C. "Readability" calculates the approximate grade-level required to comprehend a given text, and "Bulb"
+2. **Description:** This problem set focuses on building familiarity with arrays, functions, readability etc, in C. "Readability" calculates the approximate grade-level required to comprehend a given text, and "Bulb" converts each character of a user's input into binary, and represents the binary digits using emojis (dark and light) as output.
 
 3. **Approach:** For the Readability problem, I employed three functions to count the number of letters, words, and sentences in a text. These counts are used to compute the Coleman-Liau index, a readability formula. For the Bulbs problem, I implemented a nested loop in a function to convert user-input message into binary representation and display it using dark and light emojis
 
