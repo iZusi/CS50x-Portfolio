@@ -36,6 +36,6 @@ Feel free to explore my work and see how I tackled the challenges presented in t
 
 ## Contact Information
 
-You can reach me at [iyke.zusi@gmail.com] or connect with me on [LinkedIn](https://www.linkedin.com/in/iomozusi) for networking and further discussions.
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/iomozusi) for networking and further discussions.
 
 Thank you for visiting my CS50x portfolio, and I hope you find my journey inspiring and informative!
