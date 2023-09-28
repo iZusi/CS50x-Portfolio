@@ -4,7 +4,7 @@
 
 **Contents:**
 
-1. **Files:** `hello.c`, `mario.c`, `cash.c`
+1. **Files:** `hello.c`, `mario-less.c`, `mario-more.c` `cash.c`
 
 2. **Description:** This problem set focuses on building familiarity with C syntax and programming concepts. "Hello" prints a greeting message, "Mario" creates pyramid patterns, and "Cash" calculates the minimum number of coins needed to make change.
 
