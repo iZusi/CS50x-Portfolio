@@ -20,7 +20,6 @@ CS50x is divided into problem sets (Psets), lab sets (Labs) and practice problem
 
 - [Lab1](./LabSets/Lab1): C programming - Population Growth
 - [Lab2](./LabSets/Lab2): Arrays - Scrabble
-- ...
 
 ## My Contributions
 
